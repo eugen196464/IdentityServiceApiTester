@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "System.Net.Http.Json": "8.0.0",
+    "Newtonsoft.Json": "13.0.3"
+  }
+}
